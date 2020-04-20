@@ -1,6 +1,6 @@
 import React from "react";
 
-{/* Stateless Function Header code */} 
+/* Stateless Function Header code */
 
 const Header = (props) => (
     <header className="top">
@@ -20,7 +20,7 @@ const Header = (props) => (
 
 
 
-{/* Below code is without stateless function changes:
+/* Below code is without stateless function changes:
 
 class Header extends React.Component {
   render() {
@@ -42,7 +42,7 @@ class Header extends React.Component {
   }
 }
 
-*/}
+*/
 
 export default Header;
 
